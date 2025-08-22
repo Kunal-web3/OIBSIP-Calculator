@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modern Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark">
+  <div class="calculator dark" id="calculator">
+    
+    <!-- Top bar -->
+    <div class="top-bar">
+      <h2>Calculator</h2>
+
+      <!-- Theme Switch -->
+      <label class="switch">
+        <input type="checkbox" id="themeToggle" checked>
+        <span class="slider"></span>
+      </label>
+
+      <!-- History Toggle -->
+      <button id="toggleHistory" class="history-btn">🕑</button>
+    </div>
+
+    <!-- Display -->
+    <input type="text" id="display" readonly>
+
+    <div class="buttons">
+      <!-- Top row -->
+      <button>C</button>
+      <button>%</button>
+      <button id="backspace">⌫</button>
+      <button>÷</button>
+
+      <!-- Second row -->
+      <button>7</button>
+      <button>8</button>
+      <button>9</button>
+      <button>×</button>
+
+      <!-- Third row -->
+      <button>4</button>
+      <button>5</button>
+      <button>6</button>
+      <button>-</button>
+
+      <!-- Fourth row -->
+      <button>1</button>
+      <button>2</button>
+      <button>3</button>
+      <button>+</button>
+
+      <!-- Bottom row -->
+      <button>00</button>
+      <button>0</button>
+      <button>.</button>
+      <button>=</button>
+    </div>
+
+    <!-- History -->
+    <div id="history">
+      <h3>History</h3>
+      <ul id="historyList"></ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
