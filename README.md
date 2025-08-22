@@ -72,4 +72,6 @@ Special thanks to **Oasis Infobyte (OIBSIP)** for the opportunity and guidance.
 
 ## 📢 Connect with Me  
 
-🔗 [LinkedIn](www.linkedin.com/in/kunal-jadhav-kj)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kunal-jadhav-kj)
+
+
