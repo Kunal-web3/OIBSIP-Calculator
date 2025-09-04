@@ -24,11 +24,11 @@ It comes with **Dark/Light themes**, **calculation history**, and a smooth **mod
 
 OIBSIP-Calculator/
 
-├── index.html # Main HTML file
-├── style.css # Stylesheet (themes, layout, UI)
-├── script.js # Calculator logic & theme toggle
-├── screenshot.png # Project preview
-└── README.md # Project documentation
+├── index.html # Main HTML file <br>
+├── style.css # Stylesheet (themes, layout, UI) <br>
+├── script.js # Calculator logic & theme toggle <br>
+├── screenshot.png # Project preview <br>
+└── README.md # Project documentation <br>
 
 
 ---
@@ -73,6 +73,7 @@ Special thanks to **Oasis Infobyte (OIBSIP)** for the opportunity and guidance.
 ## 📢 Connect with Me  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-jadhav-kj) | 🌐 [GitHub](https://github.com/kunal-web3)
+
 
 
 
